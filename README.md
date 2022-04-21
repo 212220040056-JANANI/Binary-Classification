@@ -47,8 +47,7 @@ pyplot.legend()
 
 ## OUTPUT:
 
-<img width="320" alt="output" src="https://user-images.githubusercontent.com/75234991/163558187-55b65d72-da4d-49e3-9e39-0a0a741a5319.png">
-
+ ![image](https://user-images.githubusercontent.com/86832944/164505788-89f2510a-d477-4c82-a62e-488820674dbc.png)
 ## RESULT:
 
 Thus the python program performed binary classification successfully.
