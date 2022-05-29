@@ -1,5 +1,5 @@
 ### EX NO: 02
-### DATE: 
+### DATE: 04/04/2022
 # <p align = "center" >BINARY CLASSIFICATION</p>
 ## Aim:
 To write a python program to perform binary classification.
@@ -40,9 +40,7 @@ pyplot.legend()
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/86832944/164503536-e1ea52d7-c29c-46c8-8482-6ff2ab761487.png)
-
-
+![Screenshot (110)](https://user-images.githubusercontent.com/86832944/170853730-72bf30af-414a-4411-890e-34d16b103274.png)
 
 ## Result:
 Thus the python program performed binary classification successfully.
